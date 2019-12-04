@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5260050",
+      "name": "减号",
+      "font_class": "-hao",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "6217531",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "9432180",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "9772083",
+      "name": "加号",
+      "font_class": "addTodo-nav",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
